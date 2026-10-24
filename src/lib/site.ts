@@ -9,7 +9,7 @@
 export const siteConfig = {
   name: "FirstJob Toolkit",
   shortName: "FJT",
-url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://firstjob-toolkit-bhaveshdasari67.workers.dev",  description:
+url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://firstjob-toolkit-bhavesh.bhaveshdasari67.workers.dev/",  description:
     "Free tools and honest guides for students, freshers, and internship seekers. Build a resume, practice interview questions, write professional emails, and track job applications — no sign-up required.",
   email: "hello@firstjobtoolkit.in", // TODO: replace with your real contact address
   keywords: [
