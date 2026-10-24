@@ -12,12 +12,12 @@
 		"binding": "ASSETS"
 	},
 	"services": [
-		{
-			// Self-reference service binding, the service name must match the worker name
-			// see https://opennext.js.org/cloudflare/caching
-			"binding": "WORKER_SELF_REFERENCE",
-			"service": "nextjs-postgresql-template"
-		}
+		
+{
+  "binding": "WORKER_SELF_REFERENCE",
+  "service": "firstjob-toolkit-bhavesh"
+}
+
 	],
 	"images": {
 		// Enable image optimization
